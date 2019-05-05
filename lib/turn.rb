@@ -9,3 +9,9 @@ end
 board = [" "," "," "," "," "," "," "," "," "]
 display_board
 
+def position_taken?
+  board = [nil " ", " ", " ", " ", " ", " ", " ", " ", " "]
+else between?
+  (0, 8)
+end
+
